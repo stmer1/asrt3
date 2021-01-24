@@ -135,9 +135,6 @@ python-language-server==0.31.2
 python-speech-features==0.6
 pytz==2019.3
 pyuv==1.4.0
-pywin32
-pywin32-ctypes
-pywinpty
 PyYAML==5.2
 pyzmq==18.1.0
 QDarkStyle==2.7
